@@ -1,0 +1,39 @@
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.quiz-controls {
+  margin-bottom: 20px;
+}
+
+.quiz-controls select,
+.quiz-controls button {
+  margin: 0 10px;
+  padding: 5px 10px;
+}
+
+.question-card {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.options button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #f0f0f0;
+  border: none;
+  cursor: pointer;
+}
+
+.options button:hover {
+  background-color: #e0e0e0;
+}
+
+.score-section {
+  font-size: 24px;
+  margin-top: 20px;
+}
